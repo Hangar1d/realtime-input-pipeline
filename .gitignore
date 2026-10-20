@@ -1,0 +1,10 @@
+/.build/
+/.build-tsan/
+/.swiftpm/
+/core-build/
+/core-sanitize/
+/build/
+/diagnostics.json
+/result-*.json
+/my-fixture.json
+.DS_Store

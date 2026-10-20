@@ -1,0 +1,810 @@
+{
+  "inputs" : [
+    {
+      "deviceNS" : 1000000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1002000000000,
+      "sequence" : 0
+    },
+    {
+      "deviceNS" : 1001000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1003000120000,
+      "sequence" : 1
+    },
+    {
+      "deviceNS" : 1002000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1004000240000,
+      "sequence" : 2
+    },
+    {
+      "deviceNS" : 1003000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1005000360000,
+      "sequence" : 3
+    },
+    {
+      "deviceNS" : 1004000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1006001480000,
+      "sequence" : 4
+    },
+    {
+      "deviceNS" : 1005000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1007000600000,
+      "sequence" : 5
+    },
+    {
+      "deviceNS" : 1006000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1008000720000,
+      "sequence" : 6
+    },
+    {
+      "deviceNS" : 1007000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1009000840000,
+      "sequence" : 7
+    },
+    {
+      "deviceNS" : 1008000000000,
+      "evidence" : "trustedSameInstant",
+      "kind" : "anchor",
+      "referenceNS" : 1010000960000,
+      "sequence" : 8
+    },
+    {
+      "arrivalReferenceNS" : 1010103605495,
+      "deviceNS" : 1008104027517,
+      "kind" : "imu",
+      "sequence" : 2,
+      "x" : 0.005,
+      "y" : 1.01,
+      "z" : -0.005
+    },
+    {
+      "arrivalReferenceNS" : 1010099596704,
+      "kind" : "frame",
+      "referenceNS" : 1010100000000,
+      "sequence" : 0
+    },
+    {
+      "arrivalReferenceNS" : 1010099088065,
+      "deviceNS" : 1008099028117,
+      "kind" : "imu",
+      "sequence" : 1,
+      "x" : 0,
+      "y" : 1,
+      "z" : -0
+    },
+    {
+      "arrivalReferenceNS" : 1010094864746,
+      "deviceNS" : 1008094028717,
+      "kind" : "imu",
+      "sequence" : 0,
+      "x" : -0.005,
+      "y" : 0.99,
+      "z" : 0.005
+    },
+    {
+      "arrivalReferenceNS" : 1010123278308,
+      "deviceNS" : 1008124025117,
+      "kind" : "imu",
+      "sequence" : 6,
+      "x" : 0.025,
+      "y" : 1.05,
+      "z" : -0.025
+    },
+    {
+      "arrivalReferenceNS" : 1010120605812,
+      "deviceNS" : 1008119025717,
+      "kind" : "imu",
+      "sequence" : 5,
+      "x" : 0.02,
+      "y" : 1.04,
+      "z" : -0.02
+    },
+    {
+      "arrivalReferenceNS" : 1010116180611,
+      "deviceNS" : 1008114026317,
+      "kind" : "imu",
+      "sequence" : 4,
+      "x" : 0.015,
+      "y" : 1.03,
+      "z" : -0.015
+    },
+    {
+      "arrivalReferenceNS" : 1010110004565,
+      "deviceNS" : 1008109026917,
+      "kind" : "imu",
+      "sequence" : 3,
+      "x" : 0.01,
+      "y" : 1.02,
+      "z" : -0.01
+    },
+    {
+      "arrivalReferenceNS" : 1010139040576,
+      "deviceNS" : 1008139023317,
+      "kind" : "imu",
+      "sequence" : 9,
+      "x" : 0.04,
+      "y" : 1.08,
+      "z" : -0.04
+    },
+    {
+      "arrivalReferenceNS" : 1010136132387,
+      "deviceNS" : 1008134023917,
+      "kind" : "imu",
+      "sequence" : 8,
+      "x" : 0.035,
+      "y" : 1.07,
+      "z" : -0.035
+    },
+    {
+      "arrivalReferenceNS" : 1010134110430,
+      "kind" : "frame",
+      "referenceNS" : 1010133333333,
+      "sequence" : 1
+    },
+    {
+      "arrivalReferenceNS" : 1010130005739,
+      "deviceNS" : 1008129024517,
+      "kind" : "imu",
+      "sequence" : 7,
+      "x" : 0.03,
+      "y" : 1.06,
+      "z" : -0.03
+    },
+    {
+      "arrivalReferenceNS" : 1010161081566,
+      "deviceNS" : 1008159020917,
+      "kind" : "imu",
+      "sequence" : 13,
+      "x" : 0.06,
+      "y" : 1.12,
+      "z" : -0.06
+    },
+    {
+      "arrivalReferenceNS" : 1010153699586,
+      "deviceNS" : 1008154021517,
+      "kind" : "imu",
+      "sequence" : 12,
+      "x" : 0.055,
+      "y" : 1.11,
+      "z" : -0.055
+    },
+    {
+      "arrivalReferenceNS" : 1010151298221,
+      "deviceNS" : 1008149022117,
+      "kind" : "imu",
+      "sequence" : 11,
+      "x" : 0.05,
+      "y" : 1.1,
+      "z" : -0.05
+    },
+    {
+      "arrivalReferenceNS" : 1010143432657,
+      "deviceNS" : 1008144022717,
+      "kind" : "imu",
+      "sequence" : 10,
+      "x" : 0.045,
+      "y" : 1.09,
+      "z" : -0.045
+    },
+    {
+      "arrivalReferenceNS" : 1010180038541,
+      "deviceNS" : 1008179018518,
+      "kind" : "imu",
+      "sequence" : 17,
+      "x" : 0.08,
+      "y" : 1.16,
+      "z" : -0.08
+    },
+    {
+      "arrivalReferenceNS" : 1010168507201,
+      "deviceNS" : 1008169019718,
+      "kind" : "imu",
+      "sequence" : 15,
+      "x" : 0.07,
+      "y" : 1.1400000000000001,
+      "z" : -0.07
+    },
+    {
+      "arrivalReferenceNS" : 1010165873574,
+      "kind" : "frame",
+      "referenceNS" : 1010166666667,
+      "sequence" : 2
+    },
+    {
+      "arrivalReferenceNS" : 1010164759216,
+      "deviceNS" : 1008164020318,
+      "kind" : "imu",
+      "sequence" : 14,
+      "x" : 0.065,
+      "y" : 1.13,
+      "z" : -0.065
+    },
+    {
+      "arrivalReferenceNS" : 1010198987683,
+      "kind" : "frame",
+      "referenceNS" : 1010200000000,
+      "sequence" : 3
+    },
+    {
+      "arrivalReferenceNS" : 1010193827131,
+      "deviceNS" : 1008194016718,
+      "kind" : "imu",
+      "sequence" : 20,
+      "x" : 0.095,
+      "y" : 1.19,
+      "z" : -0.095
+    },
+    {
+      "arrivalReferenceNS" : 1010188528357,
+      "deviceNS" : 1008189017318,
+      "kind" : "imu",
+      "sequence" : 19,
+      "x" : 0.09,
+      "y" : 1.18,
+      "z" : -0.09
+    },
+    {
+      "arrivalReferenceNS" : 1010185640414,
+      "deviceNS" : 1008184017918,
+      "kind" : "imu",
+      "sequence" : 18,
+      "x" : 0.085,
+      "y" : 1.17,
+      "z" : -0.085
+    },
+    {
+      "arrivalReferenceNS" : 1010214595522,
+      "deviceNS" : 1008214014318,
+      "kind" : "imu",
+      "sequence" : 24,
+      "x" : 0.115,
+      "y" : 1.23,
+      "z" : -0.115
+    },
+    {
+      "arrivalReferenceNS" : 1010209578816,
+      "deviceNS" : 1008209014918,
+      "kind" : "imu",
+      "sequence" : 23,
+      "x" : 0.11,
+      "y" : 1.22,
+      "z" : -0.11
+    },
+    {
+      "arrivalReferenceNS" : 1010206574319,
+      "deviceNS" : 1008204015518,
+      "kind" : "imu",
+      "sequence" : 22,
+      "x" : 0.105,
+      "y" : 1.21,
+      "z" : -0.105
+    },
+    {
+      "arrivalReferenceNS" : 1010199319542,
+      "deviceNS" : 1008199016118,
+      "kind" : "imu",
+      "sequence" : 21,
+      "x" : 0.1,
+      "y" : 1.2,
+      "z" : -0.1
+    },
+    {
+      "arrivalReferenceNS" : 1010232423241,
+      "kind" : "frame",
+      "referenceNS" : 1010233333333,
+      "sequence" : 4
+    },
+    {
+      "arrivalReferenceNS" : 1010231739288,
+      "deviceNS" : 1008229012518,
+      "kind" : "imu",
+      "sequence" : 27,
+      "x" : 0.13,
+      "y" : 1.26,
+      "z" : -0.13
+    },
+    {
+      "arrivalReferenceNS" : 1010224442001,
+      "deviceNS" : 1008224013118,
+      "kind" : "imu",
+      "sequence" : 26,
+      "x" : 0.125,
+      "y" : 1.25,
+      "z" : -0.125
+    },
+    {
+      "arrivalReferenceNS" : 1010221560934,
+      "deviceNS" : 1008219013718,
+      "kind" : "imu",
+      "sequence" : 25,
+      "x" : 0.12,
+      "y" : 1.24,
+      "z" : -0.12
+    },
+    {
+      "arrivalReferenceNS" : 1010248936774,
+      "deviceNS" : 1008249010119,
+      "kind" : "imu",
+      "sequence" : 31,
+      "x" : 0.15,
+      "y" : 1.3,
+      "z" : -0.15
+    },
+    {
+      "arrivalReferenceNS" : 1010246091110,
+      "deviceNS" : 1008244010719,
+      "kind" : "imu",
+      "sequence" : 30,
+      "x" : 0.145,
+      "y" : 1.29,
+      "z" : -0.145
+    },
+    {
+      "arrivalReferenceNS" : 1010240752172,
+      "deviceNS" : 1008239011319,
+      "kind" : "imu",
+      "sequence" : 29,
+      "x" : 0.14,
+      "y" : 1.28,
+      "z" : -0.14
+    },
+    {
+      "arrivalReferenceNS" : 1010234668460,
+      "deviceNS" : 1008234011919,
+      "kind" : "imu",
+      "sequence" : 28,
+      "x" : 0.135,
+      "y" : 1.27,
+      "z" : -0.135
+    },
+    {
+      "arrivalReferenceNS" : 1010268489449,
+      "deviceNS" : 1008269007719,
+      "kind" : "imu",
+      "sequence" : 35,
+      "x" : 0.17,
+      "y" : 1.34,
+      "z" : -0.17
+    },
+    {
+      "arrivalReferenceNS" : 1010267041560,
+      "kind" : "frame",
+      "referenceNS" : 1010266666667,
+      "sequence" : 5
+    },
+    {
+      "arrivalReferenceNS" : 1010266651950,
+      "deviceNS" : 1008264008319,
+      "kind" : "imu",
+      "sequence" : 34,
+      "x" : 0.165,
+      "y" : 1.33,
+      "z" : -0.165
+    },
+    {
+      "arrivalReferenceNS" : 1010253515044,
+      "deviceNS" : 1008254009519,
+      "kind" : "imu",
+      "sequence" : 32,
+      "x" : 0.155,
+      "y" : 1.31,
+      "z" : -0.155
+    },
+    {
+      "arrivalReferenceNS" : 1010288956362,
+      "deviceNS" : 1008289005319,
+      "kind" : "imu",
+      "sequence" : 39,
+      "x" : 0.19,
+      "y" : 1.38,
+      "z" : -0.19
+    },
+    {
+      "arrivalReferenceNS" : 1010283257845,
+      "deviceNS" : 1008284005919,
+      "kind" : "imu",
+      "sequence" : 38,
+      "x" : 0.185,
+      "y" : 1.37,
+      "z" : -0.185
+    },
+    {
+      "arrivalReferenceNS" : 1010279810929,
+      "deviceNS" : 1008279006519,
+      "kind" : "imu",
+      "sequence" : 37,
+      "x" : 0.18,
+      "y" : 1.3599999999999999,
+      "z" : -0.18
+    },
+    {
+      "arrivalReferenceNS" : 1010275992176,
+      "deviceNS" : 1008274007119,
+      "kind" : "imu",
+      "sequence" : 36,
+      "x" : 0.175,
+      "y" : 1.35,
+      "z" : -0.175
+    },
+    {
+      "arrivalReferenceNS" : 1010304289658,
+      "deviceNS" : 1008304003520,
+      "kind" : "imu",
+      "sequence" : 42,
+      "x" : 0.205,
+      "y" : 1.41,
+      "z" : -0.205
+    },
+    {
+      "arrivalReferenceNS" : 1010301181151,
+      "deviceNS" : 1008299004120,
+      "kind" : "imu",
+      "sequence" : 41,
+      "x" : 0.2,
+      "y" : 1.4,
+      "z" : -0.2
+    },
+    {
+      "arrivalReferenceNS" : 1010298663113,
+      "kind" : "frame",
+      "referenceNS" : 1010300000000,
+      "sequence" : 6
+    },
+    {
+      "arrivalReferenceNS" : 1010296782311,
+      "deviceNS" : 1008294004719,
+      "kind" : "imu",
+      "sequence" : 40,
+      "x" : 0.195,
+      "y" : 1.3900000000000001,
+      "z" : -0.195
+    },
+    {
+      "arrivalReferenceNS" : 1010326389158,
+      "deviceNS" : 1008324001120,
+      "kind" : "imu",
+      "sequence" : 46,
+      "x" : 0.225,
+      "y" : 1.45,
+      "z" : -0.225
+    },
+    {
+      "arrivalReferenceNS" : 1010320148552,
+      "deviceNS" : 1008319001720,
+      "kind" : "imu",
+      "sequence" : 45,
+      "x" : 0.22,
+      "y" : 1.44,
+      "z" : -0.22
+    },
+    {
+      "arrivalReferenceNS" : 1010316369799,
+      "deviceNS" : 1008314002320,
+      "kind" : "imu",
+      "sequence" : 44,
+      "x" : 0.215,
+      "y" : 1.43,
+      "z" : -0.215
+    },
+    {
+      "arrivalReferenceNS" : 1010309273852,
+      "deviceNS" : 1008309002920,
+      "kind" : "imu",
+      "sequence" : 43,
+      "x" : 0.21,
+      "y" : 1.42,
+      "z" : -0.21
+    },
+    {
+      "arrivalReferenceNS" : 1010340137112,
+      "deviceNS" : 1008338999320,
+      "kind" : "imu",
+      "sequence" : 49,
+      "x" : 0.24,
+      "y" : 1.48,
+      "z" : -0.24
+    },
+    {
+      "arrivalReferenceNS" : 1010336244271,
+      "deviceNS" : 1008333999920,
+      "kind" : "imu",
+      "sequence" : 48,
+      "x" : 0.235,
+      "y" : 1.47,
+      "z" : -0.235
+    },
+    {
+      "arrivalReferenceNS" : 1010333178429,
+      "kind" : "frame",
+      "referenceNS" : 1010333333333,
+      "sequence" : 7
+    },
+    {
+      "arrivalReferenceNS" : 1010330182562,
+      "deviceNS" : 1008329000520,
+      "kind" : "imu",
+      "sequence" : 47,
+      "x" : 0.23,
+      "y" : 1.46,
+      "z" : -0.23
+    },
+    {
+      "arrivalReferenceNS" : 1010365966738,
+      "deviceNS" : 1008363996320,
+      "kind" : "imu",
+      "sequence" : 54,
+      "x" : 0.265,
+      "y" : 1.53,
+      "z" : -0.265
+    },
+    {
+      "arrivalReferenceNS" : 1010358603150,
+      "deviceNS" : 1008358996920,
+      "kind" : "imu",
+      "sequence" : 53,
+      "x" : 0.26,
+      "y" : 1.52,
+      "z" : -0.26
+    },
+    {
+      "arrivalReferenceNS" : 1010354866339,
+      "deviceNS" : 1008353997520,
+      "kind" : "imu",
+      "sequence" : 52,
+      "x" : 0.255,
+      "y" : 1.51,
+      "z" : -0.255
+    },
+    {
+      "arrivalReferenceNS" : 1010350776078,
+      "deviceNS" : 1008348998120,
+      "kind" : "imu",
+      "sequence" : 51,
+      "x" : 0.25,
+      "y" : 1.5,
+      "z" : -0.25
+    },
+    {
+      "arrivalReferenceNS" : 1010379555137,
+      "deviceNS" : 1008378994521,
+      "kind" : "imu",
+      "sequence" : 57,
+      "x" : 0.28,
+      "y" : 1.56,
+      "z" : -0.28
+    },
+    {
+      "arrivalReferenceNS" : 1010375483400,
+      "deviceNS" : 1008373995121,
+      "kind" : "imu",
+      "sequence" : 56,
+      "x" : 0.275,
+      "y" : 1.55,
+      "z" : -0.275
+    },
+    {
+      "arrivalReferenceNS" : 1010368270692,
+      "deviceNS" : 1008368995721,
+      "kind" : "imu",
+      "sequence" : 55,
+      "x" : 0.27,
+      "y" : 1.54,
+      "z" : -0.27
+    },
+    {
+      "arrivalReferenceNS" : 1010366064831,
+      "kind" : "frame",
+      "referenceNS" : 1010366666667,
+      "sequence" : 8
+    },
+    {
+      "arrivalReferenceNS" : 1010398051368,
+      "deviceNS" : 1008398992121,
+      "kind" : "imu",
+      "sequence" : 61,
+      "x" : 0.3,
+      "y" : 1.6,
+      "z" : -0.3
+    },
+    {
+      "arrivalReferenceNS" : 1010394976124,
+      "deviceNS" : 1008393992721,
+      "kind" : "imu",
+      "sequence" : 60,
+      "x" : 0.295,
+      "y" : 1.5899999999999999,
+      "z" : -0.295
+    },
+    {
+      "arrivalReferenceNS" : 1010390445663,
+      "deviceNS" : 1008388993321,
+      "kind" : "imu",
+      "sequence" : 59,
+      "x" : 0.29,
+      "y" : 1.58,
+      "z" : -0.29
+    },
+    {
+      "arrivalReferenceNS" : 1010383719708,
+      "deviceNS" : 1008383993921,
+      "kind" : "imu",
+      "sequence" : 58,
+      "x" : 0.285,
+      "y" : 1.5699999999999998,
+      "z" : -0.285
+    },
+    {
+      "arrivalReferenceNS" : 1010415922820,
+      "deviceNS" : 1008413990321,
+      "kind" : "imu",
+      "sequence" : 64,
+      "x" : 0.315,
+      "y" : 1.63,
+      "z" : -0.315
+    },
+    {
+      "arrivalReferenceNS" : 1010409386376,
+      "deviceNS" : 1008408990921,
+      "kind" : "imu",
+      "sequence" : 63,
+      "x" : 0.31,
+      "y" : 1.62,
+      "z" : -0.31
+    },
+    {
+      "arrivalReferenceNS" : 1010404720410,
+      "deviceNS" : 1008403991521,
+      "kind" : "imu",
+      "sequence" : 62,
+      "x" : 0.305,
+      "y" : 1.6099999999999999,
+      "z" : -0.305
+    },
+    {
+      "arrivalReferenceNS" : 1010401988462,
+      "kind" : "frame",
+      "referenceNS" : 1010400000000,
+      "sequence" : 9
+    },
+    {
+      "arrivalReferenceNS" : 1010436257201,
+      "deviceNS" : 1008433987921,
+      "kind" : "imu",
+      "sequence" : 68,
+      "x" : 0.335,
+      "y" : 1.67,
+      "z" : -0.335
+    },
+    {
+      "arrivalReferenceNS" : 1010432690282,
+      "kind" : "frame",
+      "referenceNS" : 1010433333333,
+      "sequence" : 10
+    },
+    {
+      "arrivalReferenceNS" : 1010424380668,
+      "deviceNS" : 1008423989121,
+      "kind" : "imu",
+      "sequence" : 66,
+      "x" : 0.325,
+      "y" : 1.65,
+      "z" : -0.325
+    },
+    {
+      "arrivalReferenceNS" : 1010419967335,
+      "deviceNS" : 1008418989721,
+      "kind" : "imu",
+      "sequence" : 65,
+      "x" : 0.32,
+      "y" : 1.6400000000000001,
+      "z" : -0.32
+    },
+    {
+      "arrivalReferenceNS" : 1010454175818,
+      "deviceNS" : 1008453985522,
+      "kind" : "imu",
+      "sequence" : 72,
+      "x" : 0.355,
+      "y" : 1.71,
+      "z" : -0.355
+    },
+    {
+      "arrivalReferenceNS" : 1010451439882,
+      "deviceNS" : 1008448986122,
+      "kind" : "imu",
+      "sequence" : 71,
+      "x" : 0.35,
+      "y" : 1.7,
+      "z" : -0.35
+    },
+    {
+      "arrivalReferenceNS" : 1010444859663,
+      "deviceNS" : 1008443986722,
+      "kind" : "imu",
+      "sequence" : 70,
+      "x" : 0.345,
+      "y" : 1.69,
+      "z" : -0.345
+    },
+    {
+      "arrivalReferenceNS" : 1010438609022,
+      "deviceNS" : 1008438987322,
+      "kind" : "imu",
+      "sequence" : 69,
+      "x" : 0.34,
+      "y" : 1.6800000000000002,
+      "z" : -0.34
+    },
+    {
+      "arrivalReferenceNS" : 1010469204947,
+      "deviceNS" : 1008468983722,
+      "kind" : "imu",
+      "sequence" : 75,
+      "x" : 0.37,
+      "y" : 1.74,
+      "z" : -0.37
+    },
+    {
+      "arrivalReferenceNS" : 1010465825342,
+      "kind" : "frame",
+      "referenceNS" : 1010466666667,
+      "sequence" : 11
+    },
+    {
+      "arrivalReferenceNS" : 1010465778036,
+      "deviceNS" : 1008463984322,
+      "kind" : "imu",
+      "sequence" : 74,
+      "x" : 0.365,
+      "y" : 1.73,
+      "z" : -0.365
+    },
+    {
+      "arrivalReferenceNS" : 1010459414603,
+      "deviceNS" : 1008458984922,
+      "kind" : "imu",
+      "sequence" : 73,
+      "x" : 0.36,
+      "y" : 1.72,
+      "z" : -0.36
+    },
+    {
+      "arrivalReferenceNS" : 1010476059779,
+      "deviceNS" : 1008473983122,
+      "kind" : "imu",
+      "sequence" : 76,
+      "x" : 0.375,
+      "y" : 1.75,
+      "z" : -0.375
+    }
+  ],
+  "label" : "synthetic-camera-imu",
+  "schemaVersion" : 1,
+  "synthetic" : {
+    "anchorOutlierNS" : 1000000,
+    "cameraHz" : 30,
+    "driftPPM" : 120,
+    "frames" : 12,
+    "imuHz" : 200,
+    "jitterNS" : 2000000,
+    "missingEvery" : 17,
+    "offsetNS" : 2000000000,
+    "reorderDepth" : 4,
+    "seed" : 7
+  }
+}
